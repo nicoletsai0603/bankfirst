@@ -1,0 +1,14 @@
+#menubox .menubox li { min-width: 200px; display: block; box-sizing: border-box; }
+#menubox .menubox li div { color: #b6893c; font-size:21px; font-weight:bold }
+#menubox .menubox li div span { clear:both;font-size:14px; color:#dbc093;font-weight:normal }
+
+
+#menus ul .menubox{ background-color: #fff; }
+.becard{ width:40%; float:left; margin:5%; font-weight:bold;}
+.becard img{  width:100%;}
+.becard2{ font-size:24px; color:#097156; padding:13px 0; border-top:#b6893c 1px solid;border-bottom:#b6893c 1px solid; margin:13px 0; }
+.becard ol{ padding-left:15px; color:#767676; font-size:15px; line-height:24px;}
+.becard ol li{ list-style-type:decimal}
+.layout p.becard3{ color:#b6893c; margin:10px 0; font-size:14px;}
+.card{ position: fixed; right:10px; top:140px; width:66px; height: 226px; background: url(../images/want_card.png) no-repeat 0 0; display:block; transition:all 0.3s}
+.card:hover{background: url(../images/want_card_hover.png) no-repeat 0 0;transition:all 0.3s}
